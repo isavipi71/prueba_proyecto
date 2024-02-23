@@ -1,0 +1,24 @@
+{
+  "name": "prueba_proyecto",
+  "version": "1.0.0",
+  "description": "proyecto de prueba con conexion database y mysql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isavipi71/prueba_proyecto.git"
+  },
+  "author": "Isabel Viejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isavipi71/prueba_proyecto/issues"
+  },
+  "homepage": "https://github.com/isavipi71/prueba_proyecto#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
